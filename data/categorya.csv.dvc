@@ -1,0 +1,5 @@
+outs:
+- md5: a516edca19c09dbcb3e57d867ec09fe4
+  size: 66
+  hash: md5
+  path: categorya.csv
